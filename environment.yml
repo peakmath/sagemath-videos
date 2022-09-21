@@ -1,0 +1,6 @@
+name: sagemath-videos
+channels:
+  - conda-forge
+dependencies:
+  - sage=9.5
+  - rise=5.7
