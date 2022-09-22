@@ -2,4 +2,4 @@ name: sagemath-videos
 channels:
   - conda-forge
 dependencies:
-  - sage=9.5
+  - sage
