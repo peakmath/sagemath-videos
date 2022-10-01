@@ -1,5 +1,8 @@
 name: sagemath-videos
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - sage
+  - jupyterlab
+  - ipywidgets
+  - sage=9.6
